@@ -1,6 +1,6 @@
 # Bot codes
 
-![pytorch](./docs/images/assets/happy-bot.webp)
+![happy bot](./docs/images/assets/happy-bot.webp)
 
 ---
 
