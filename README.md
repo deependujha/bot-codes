@@ -1,6 +1,6 @@
 # Bot codes
 
-![happy bot](./docs/images/assets/happy-bot.webp)
+![happy bot](static/assets/happy-bot.webp)
 
 ---
 
